@@ -3,11 +3,11 @@
 
 I design pragmatic IT systems by combining 10+ years of Systems administration, infrastructure management, Java development, and systems analysis. My core focus is on finding the optimal balance between Time-to-Market (TTM), Total Cost of Ownership (TCO), and architectural reliability.
 
-I specialize in transitioning monolithic legacy systems into scalable, decoupled architectures. I actively leverage modern AI tools (Claude 3.5 Sonnet, Cursor, Spec-Driven Development) to multiply engineering output, accelerate refactoring, and automate architectural documentation.
+I specialize in transitioning monolithic legacy systems into scalable, decoupled architectures. I actively leverage modern AI tools (Claude, Cursor, Spec-Driven Development) to multiply engineering output, accelerate refactoring, and automate architectural documentation.
 
 ### 🚀 Current Focus
 * **Cloud Architecture:** Actively preparing for the **AWS Certified Solutions Architect – Associate** (SAA-C03) certification.
-* **Flagship Project:** Developing **MyLovelyGarden (MLG)** — a SaaS ERP for botanical organizations. Currently orchestrating the architectural migration from a legacy Java/Thymeleaf SSR to a decoupled Spring Boot REST API + Angular SPA.
+* **Flagship Project:** Developing **MyLovelyGarden (MLG)** - a SaaS ERP for botanical organizations. Currently orchestrating the architectural migration from a legacy Java/Thymeleaf SSR to a decoupled Spring Boot REST API + Angular SPA.
 * **DevOps:** Refining automated CI/CD pipelines (GitHub Actions) for zero-downtime containerized VPS deployments.
 
 ### 🛠 Tech Stack & Architectural Matrix
