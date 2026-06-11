@@ -1,29 +1,78 @@
-# Hi there, I'm Dmitrii 👋
-**Solution Architect Associate | AI-Augmented Systems Engineer**
+# Dmitrii Morozov
 
-I design pragmatic IT systems by combining 10+ years of Systems administration, infrastructure management, Java development, and systems analysis. My core focus is on finding the optimal balance between Time-to-Market (TTM), Total Cost of Ownership (TCO), and architectural reliability.
+**System Analyst / System Designer | Solution Architecture Track | Enterprise SaaS, Data & Integration, AI-assisted Systems**
 
-I specialize in transitioning monolithic legacy systems into scalable, decoupled architectures. I actively leverage modern AI tools (Claude, Cursor, Spec-Driven Development) to multiply engineering output, accelerate refactoring, and automate architectural documentation.
+I work at the intersection of system analysis, solution design, data modeling, integration design, and practical engineering.
 
-### 🚀 Current Focus
-* **Cloud Architecture:** Actively preparing for the **AWS Certified Solutions Architect - Associate** (SAA-C03) certification.
-* **Flagship Project:** Developing **MyLovelyGarden (MLG)** - a SaaS ERP for botanical organizations. Currently orchestrating the architectural migration from a legacy Java/Thymeleaf SSR to a decoupled Spring Boot REST API + Angular SPA.
-* **DevOps:** Refining automated CI/CD pipelines (GitHub Actions) for zero-downtime containerized VPS deployments.
+My background combines infrastructure operations, internal tooling, Java/Spring development, PostgreSQL, GIS/data processing, and enterprise documentation. I use this experience to turn unclear domains into implementable systems: domain models, data structures, API contracts, RBAC rules, integration flows, edge cases, architecture artifacts, and working prototypes.
 
-### 🛠 Tech Stack & Architectural Matrix
-* **Architecture:** System Design, C4 Model, ADRs, REST API Design, Monolith-to-Microservices strategies.
-* **Backend Core:** Java, Spring Boot, PostgreSQL, PostGIS.
-* **Frontend & GIS:** Angular, OpenLayers, OSRM.
-* **Infra & DevOps:** Windows and Linux Administration (10+ years), Docker, GitHub Actions, Traefik, Nginx.
-* **AI-Augmented Engineering:** Cursor, Claude AI, Prompt Engineering for SDD.
-* **Java Development:** Backend logic (Spring Boot), REST API, GIS (OpenLayers, OSRM).
+My current direction is Solution Architecture, with a focus on enterprise SaaS, cloud-native systems, and AI-assisted decision-support platforms.
 
-### 📂 Featured Work
-* 🌱 **[MyLovelyGarden](https://github.com/flatura/...)** - B2B SaaS ERP for botanical collections management. *(Spring Boot, Angular, PostgreSQL, Docker)*
-* 🗺️ **[GraphMechanic](https://github.com/flatura/...)** - R&D architectural stand for geographical graph performance testing and async data loading. *(Java, OpenLayers, PostGIS)*
-* 🏗️ **[Architecture Portfolio](https://flatura.github.io/portfolio/)** - My system design case studies, C4 diagrams, and ADRs.
+## Portfolio
 
-### 📫 Let's Connect
+The main source of truth for my project work, architecture cases, diagrams, ADRs, and technical write-ups is here:
+
+**[Architecture & System Design Portfolio](https://flatura.github.io/portfolio/)**
+
+The portfolio is maintained as Docs as Code and includes selected commercial, internal, and independent projects.
+
+## Current focus
+
+* Solution Architecture track: system design, architecture documentation, trade-offs, technical decomposition.
+* Enterprise SaaS: domain modeling, multi-tenancy, RBAC, data flows, operational boundaries.
+* Cloud architecture: AWS-oriented serverless and event-driven systems.
+* AI-assisted systems: agent harnesses, tool registries, execution traces, evidence-backed responses.
+* Delivery context: CI/CD, Docker-based deployment, documentation as an execution tool.
+
+## Areas of work
+
+### System analysis and solution design
+
+* Domain modeling
+* Data modeling
+* API and integration contracts
+* RBAC and access model design
+* Functional specifications
+* Acceptance criteria and edge cases
+* C4, DFD, ADR, sequence diagrams
+
+### Engineering literacy
+
+* Java / Spring Boot
+* PostgreSQL / SQL
+* REST API design
+* Docker
+* GitHub Actions
+* VPS deployments
+* Angular and frontend integration context
+* OpenLayers / GIS tooling
+
+### Cloud and AI-assisted systems
+
+* AWS Lambda, S3, API Gateway, DynamoDB
+* Terraform
+* Python for automation and prototypes
+* LangGraph-based agent workflows
+* Open WebUI
+* Tool registry / controlled LLM execution
+* Evidence-backed analytics
+* Cursor, Claude Code, AI-assisted development workflows
+
+## Selected work
+
+For current and detailed project descriptions, see the portfolio:
+
+* **Botanical B2B SaaS** — domain-heavy SaaS for botanical collections, taxonomy, plant instances, lists, RBAC, import/export, images, and operational workflows.
+* **AI Operational Intelligence Platform** — prototype of an enterprise AI decision-support system with controlled LLM execution, tool registry, run traces, and evidence-backed answers.
+* **Serverless Transcriber SaaS** — AWS-based serverless transcription system using Lambda, S3, API Gateway, DynamoDB, Terraform, Python, and external transcription APIs.
+* **Enterprise GIS / Railway Graph Tooling** — internal GIS tooling, graph data preparation, routing/tile infrastructure, and Spring Boot + OpenLayers visual editing tools.
+* **FMCG Decision-Support Initiatives** — requirements, ETL contracts, data models, and architecture artifacts for ML-based demand forecasting and mathematical production planning.
+
+## Public links
+
+* **Portfolio:** [flatura.github.io/portfolio](https://flatura.github.io/portfolio/)
 * **LinkedIn:** [linkedin.com/in/morozovda-sa](https://linkedin.com/in/morozovda-sa)
-* **Email:** flatura@gmail.com
-* *Open for remote B2B collaborations, Solution Architecture, and Senior Systems Analysis roles.*
+* **GitHub:** [github.com/flatura](https://github.com/flatura)
+* **Email:** [flatura@gmail.com](mailto:flatura@gmail.com)
+
+Open to remote B2B collaboration in system analysis, solution design, enterprise SaaS, AI-assisted systems, and architecture-facing technical work.
