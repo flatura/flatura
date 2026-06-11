@@ -1,4 +1,4 @@
-# Dmitrii Morozov
+# Dmitrii M.
 
 **System Analyst / System Designer | Solution Architecture Track | Enterprise SaaS, Data & Integration, AI-assisted Systems**
 
