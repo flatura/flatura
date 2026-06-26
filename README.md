@@ -62,17 +62,16 @@ The portfolio is maintained as Docs as Code and includes selected commercial, in
 
 For current and detailed project descriptions, see the portfolio:
 
-* **Botanical B2B SaaS** — domain-heavy SaaS for botanical collections, taxonomy, plant instances, lists, RBAC, import/export, images, and operational workflows.
-* **AI Operational Intelligence Platform** — prototype of an enterprise AI decision-support system with controlled LLM execution, tool registry, run traces, and evidence-backed answers.
-* **Serverless Transcriber SaaS** — AWS-based serverless transcription system using Lambda, S3, API Gateway, DynamoDB, Terraform, Python, and external transcription APIs.
-* **Enterprise GIS / Railway Graph Tooling** — internal GIS tooling, graph data preparation, routing/tile infrastructure, and Spring Boot + OpenLayers visual editing tools.
-* **FMCG Decision-Support Initiatives** — requirements, ETL contracts, data models, and architecture artifacts for ML-based demand forecasting and mathematical production planning.
+* **Botanical B2B SaaS** - domain-heavy SaaS for botanical collections, taxonomy, plant instances, lists, RBAC, import/export, images, and operational workflows.
+* **AI Operational Intelligence Platform** - prototype of an enterprise AI decision-support system with controlled LLM execution, tool registry, run traces, and evidence-backed answers.
+* **Serverless Transcriber SaaS** - AWS-based serverless transcription system using Lambda, S3, API Gateway, DynamoDB, Terraform, Python, and external transcription APIs.
+* **Enterprise GIS / Railway Graph Tooling** - internal GIS tooling, graph data preparation, routing/tile infrastructure, and Spring Boot + OpenLayers visual editing tools.
+* **FMCG Decision-Support Initiatives** - requirements, ETL contracts, data models, and architecture artifacts for ML-based demand forecasting and mathematical production planning.
 
 ## Public links
 
 * **Portfolio:** [flatura.github.io/portfolio](https://flatura.github.io/portfolio/)
 * **LinkedIn:** [linkedin.com/in/morozovda-sa](https://linkedin.com/in/morozovda-sa)
 * **GitHub:** [github.com/flatura](https://github.com/flatura)
-* **Email:** [flatura@gmail.com](mailto:flatura@gmail.com)
 
 Open to remote B2B collaboration in system analysis, solution design, enterprise SaaS, AI-assisted systems, and architecture-facing technical work.
